@@ -5,6 +5,8 @@ const ProductContext = React.createContext();
 //Provider
 //Consumer
 
+//6:00
+
 class ProductProvider extends Component {
   state = {
     products: [],
